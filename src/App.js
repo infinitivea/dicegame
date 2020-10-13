@@ -71,5 +71,5 @@ function App() {
 
 export default App;
 
-// keep กดไม่ได้ครั้งแรก
+// keep กดไม่ได้ครั้งแรก -- complete
 // checkScore === 100 เกมจบ
